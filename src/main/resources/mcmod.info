@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "BattlePass2",
+    "name": "BattlePass2",
+    "description": "",
+    "version": "2.0.1",
+    "mcversion": "1.8.9",
+    "url": "http://sqg.cx/fuqa.gif",
+    "updateUrl": "",
+    "authorList": ["Squag"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
