@@ -1,5 +1,5 @@
 # BattlePass2
-Battle Pass EXP farmer. Gets about one level (tier) every 90 minutes. It's called *BattlePass2* because the original Battle Pass EXP farmer I made got patched. If you want that version for scientific reasons or something you can download it here
+Battle Pass EXP farmer. Gets about one level (tier) every 90 minutes. It's called *BattlePass2* because the original Battle Pass EXP farmer I made got patched. If you want that version for scientific reasons or something you can download it [here](https://keybase.pub/squag/mc/mods/BattlePass/)
 ## Disclaimer
 Because this mod loads a full dictionary, some generated words may be punishable to say in Hypixel chat.
 I am not responsible if you get muted or banned for using this mod.
