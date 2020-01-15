@@ -11,4 +11,4 @@ We've found you get the most EXP if you keep the delay on 3 seconds, but it can 
 ### Support
 If you have any further questions you can message me on [Keybase](https://keybase.io/squag) or Discord (Nora#0001)
 ## Download
-Available on [Keybase](https://keybase.pub/squag/mc/mods/BattlePass2/BattlePass2-2.0.1.jar) or on the [Releases Page](https://github.com/Sqwak/BattlePass2/releases)
+Available on [Keybase](https://keybase.pub/squag/mc/mods/battlepass2/BattlePass2-2.0.1.jar) or on the [Releases Page](https://github.com/mew/BattlePass2/releases)
